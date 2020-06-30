@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=nysascape's Pixel 3 (XL) and 3a (XL) kernel
+kernel.string=nysa kramel - Pixel 3 (XL)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
